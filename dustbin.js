@@ -27,7 +27,6 @@ display()
      fill(255,0,255)
      ImageMode(CENTER)
      Image(this.image,0,0,this.width,this.height)
-     rect(0,0,this.width,this.height)
      pop()
 }
 }
