@@ -7,6 +7,7 @@ class paper{
         friction:0.5,
         density:1.2,
 
+            
         }
         this.x=x;
         this.y=y;
